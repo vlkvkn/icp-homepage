@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="64">
+      <stop offset="0%"   stop-color="#00F2FE"/>
+      <stop offset="14%"  stop-color="#05C2FF"/>
+      <stop offset="28%"  stop-color="#7B5CFF"/>
+      <stop offset="42%"  stop-color="#F323FF"/>
+      <stop offset="56%"  stop-color="#FF5E3A"/>
+      <stop offset="70%"  stop-color="#FFBB00"/>
+      <stop offset="84%"  stop-color="#14D658"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        font-family="Arial, sans-serif" font-weight="700" font-size="52"
+        fill="url(#grad)" stroke="url(#grad)" stroke-width="2">S</text>
+</svg>
